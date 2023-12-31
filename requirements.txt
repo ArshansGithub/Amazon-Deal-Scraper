@@ -1,0 +1,8 @@
+py-cord
+beautifulsoup4
+opencv-python
+numpy
+pytesseract
+requests
+motor
+pymongo
