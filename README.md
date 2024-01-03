@@ -1,6 +1,6 @@
 # Amazon Deal Scraper - Discord Bot
 
-![GitHub License](https://img.shields.io/badge/license-MIT-blue.svg)
+![GitHub License](https://img.shields.io/badge/license-GNU-blue.svg)
 
 Amazon-Deal-Scraper is an open-source Python and Discord based utility that enables you to scrape coupon data using a 3rd party reverse engineered API (myvipon.com). You can use this tool to find great deals, coupons, and more on various products. This project is perfect for developers, data enthusiasts, or anyone interested in getting a good deal on Amazon. 
 
