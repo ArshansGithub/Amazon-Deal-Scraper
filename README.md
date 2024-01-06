@@ -2,7 +2,8 @@
 
 ![GitHub License](https://img.shields.io/badge/license-GNU-blue.svg)
 
-Amazon-Deal-Scraper is an open-source Python and Discord based utility that enables you to scrape coupon data using a 3rd party reverse engineered API (myvipon.com). You can use this tool to find great deals, coupons, and more on various products. This project is perfect for developers, data enthusiasts, or anyone interested in getting a good deal on Amazon. 
+Amazon-Deal-Scraper is an open-source Python and Discord-based utility that enables you to scrape coupon data using a 3rd party reverse engineered API (myvipon.com). You can use this tool to find great deals, coupons, and more on various products. This project is perfect for developers, data enthusiasts, or anyone interested in getting a good deal on Amazon. 
+![DiscordCanary_hJxLKMhium](https://github.com/ArshansGithub/Amazon-Deal-Scraper/assets/111618520/21479030-6fb7-4295-8c32-822f5efb7431)
 
 ## Table of Contents
 - [Background](#background)
@@ -14,15 +15,15 @@ Amazon-Deal-Scraper is an open-source Python and Discord based utility that enab
 - [License](#license)
 
 ## Background
-This project was originally created to be sold to online entrepreneurship groups but I ultimately decided that this should go towards my public portfolio and for anyone to use.
+This project was created to be sold to online entrepreneurship groups but I ultimately decided that this should go towards my public portfolio and for anyone to use.
 
 ## Features
 
-- Search for amazon deals via keywords or without keywords
+- Search for Amazon deals via keywords or without keywords
 - Notification system that routinely checks every 6 hours for new deals and DMs user
 - Beautiful GUI based on discord bots
 - Filter results  by many robust options
-- Reverse Engineered API + Built in captcha solving
+- Reverse Engineered API + Built-in captcha solving
 - Uses MongoDB database for persistent data
 - Admin commands used within private discord server
 - If "support" discord users are not in the same server as the bot then the bot blacklists that server (security)
